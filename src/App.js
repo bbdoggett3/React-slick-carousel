@@ -66,7 +66,7 @@ class App extends Component {
       appendDots: (dots) => (
         <div
           style={{
-            backgroundColor: "#00c8f8",
+            // backgroundColor: "#00c8f8",
             borderRadius: "10px",
             
           }}

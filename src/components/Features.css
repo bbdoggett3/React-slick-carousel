@@ -1,10 +1,10 @@
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap");
 
 .features-container {
-  background-color: #f9f9f9;
+  background-color: white;
   height: 40vh;
-  width: 100vw;
-  border: 2px solid lightgrey;
+  width: 92vw;
+  /* border: 2px solid lightgrey; */
 }
 
 .features-content {
@@ -47,8 +47,8 @@
 }
 
 .features-heart-img {
-  width: 50px;
-  height:50px;
+  width: 20px;
+  height:20px;
   display: block;
   margin-left: auto;
   margin-right: auto;

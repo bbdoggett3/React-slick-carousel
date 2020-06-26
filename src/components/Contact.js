@@ -1,12 +1,9 @@
 import React from "react";
-// import Nav from "../Nav/Nav";
 import "./Contact.css";
-// import Footer from "../Footer/Footer";
 
 function Contact() {
   return (
     <div className="contact-container">
-      {/* <Nav /> */}
       <div className="contact-content">
         <p className="contact-title">Get In Touch</p>
         <p className="contact-paragraph">
@@ -18,7 +15,6 @@ function Contact() {
         <button className="feedback-btn">Click Here</button>
 
       </div>
-      {/* <Footer /> */}
     </div>
   );
 }

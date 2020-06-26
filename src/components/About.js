@@ -6,7 +6,6 @@ import "./About.css";
 function About() {
   return (
     <div className="about-container">
-      {/* <Nav /> */}
       <div className="about-content">
         <p className="about-title">About</p>
         <p className="about-paragraph-content">
@@ -20,7 +19,6 @@ function About() {
         </p>
         <button className="learn-more-btn">Learn More</button>
       </div>
-      {/* <Footer /> */}
     </div>
   );
 }

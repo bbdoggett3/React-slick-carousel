@@ -36,5 +36,16 @@
 }
 
 .learn-more-btn {
-    
-}
+    margin: 5px;
+    background-color: #00c8f8;
+    border: 2px solid #00c8f8;
+    color: white;
+    padding: 7px;
+    width: 113px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+
+  .learn-more-btn:hover {
+        border: 2px solid #f68ECE;
+  }

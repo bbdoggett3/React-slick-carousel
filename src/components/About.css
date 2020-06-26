@@ -4,7 +4,6 @@
     background-color: white;
     height: 40vh;
     width: 91vw;
-    /* border: 2px solid lightgrey; */
 }
 
 .about-content {
@@ -12,7 +11,6 @@
     flex-direction: column;
     justify-content: space-evenly;
     align-items: center;
-    /* margin-top: 25px; */
 }
 
 .about-title {
